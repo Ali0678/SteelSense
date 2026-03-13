@@ -1,0 +1,8 @@
+venv/
+ml_env/
+data/
+models/*.pth
+notebooks/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
