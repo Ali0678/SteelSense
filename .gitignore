@@ -1,7 +1,6 @@
 venv/
 ml_env/
 data/
-models/*.pth
 notebooks/
 __pycache__/
 *.pyc
